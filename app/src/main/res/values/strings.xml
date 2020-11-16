@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="content_description_media">a</string>
+    <string name="title">b</string>
+    <string name="secondary_text">c</string>
+</resources>
